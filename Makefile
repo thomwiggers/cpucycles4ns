@@ -1,4 +1,4 @@
-KERNELDIR := /usr/lib/modules/3.12.29-1-ARCH/build
+KERNELDIR := /usr/lib/modules/$(shell uname -r)/build
 
 obj-m := cpucycles4ns.o
 
