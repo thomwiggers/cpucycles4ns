@@ -14,4 +14,4 @@ Credits
 -------
 Based on http://bench.cr.yp.to/cpucycles/n810.html which appears to have been
 written by D.J. Bernstein (according to the paper "SHA3 on ARM11 processors" by
-Peters Schwabe, Bo-Yin Yang and Shang-Yi Yang).
+Peter Schwabe, Bo-Yin Yang and Shang-Yi Yang).
